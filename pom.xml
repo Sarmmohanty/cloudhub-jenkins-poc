@@ -37,7 +37,7 @@
 						<muleVersion>4.4.0</muleVersion>
 						<username>SarmisthaDevops</username>
 						<password>Hakuna!3matata</password>
-						<environment>sandbox</environment>
+						<environment>Sandbox</environment>
 						<businessGroupId>c22c5f1a-66e5-402a-9f23-ba20968f3d1f</businessGroupId>
 						<businessGroup>Own</businessGroup>
 						<objectStoreV2>true</objectStoreV2>
@@ -45,7 +45,7 @@
 						<workerType>Micro</workerType>
 						<workers>1</workers>
 						<properties>
-							<env>${env}</env>
+							<env>sandbox</env>
 							<anypoint.platform.client_id>f2f0e7ed7f8d42c4983c1b004b1b3118</anypoint.platform.client_id>
 							<anypoint.platform.client_secret>643D54Ba2C2241599845B58ffed184E0</anypoint.platform.client_secret>
 						</properties>
